@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Descobri a programação enquanto estava entediada na biblioteca da escola<br>📚 Me divirto fazendo automações em python para demandas pessoais<br>🎯 Metas: Pretendo seguir a área de cibersegurança, ainda estou no começo da jornada. Penso em fazer uma segunda graduação dedicada a essa área.<br>🎲 Curiosidade: Gosto muito de fazer as pessoas rirem.</p>
+<p align="left">✨ Descobri a programação enquanto estava entediada na biblioteca da escola;<br>📚 Me divirto fazendo automações em python para demandas pessoais;<br>🎯 Metas: Pretendo seguir a área de cibersegurança, ainda estou no começo da jornada; Penso em fazer uma segunda graduação dedicada a essa área.<br>🎲 Curiosidade: Gosto muito de fazer as pessoas rirem.</p>
 
 ###
 
