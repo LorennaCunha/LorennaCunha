@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Lorenna, tenho 22 anos, sou do Rio de Janeiro e estudo na UFRJ.</p>
+<p align="left">Meu nome é Lorenna, tenho 23 anos e sou apaixonada por Cybersecurity</p>
 
 ###
 
@@ -10,6 +10,6 @@
 
 ###
 
-<p align="left">✨ Descobri a programação enquanto estava entediada na biblioteca da escola;<br>📚 Me divirto fazendo automações em python para demandas pessoais;<br>🎯 Metas: Pretendo seguir a área de cibersegurança, ainda estou no começo da jornada; Penso em fazer uma segunda graduação dedicada a essa área.<br>🎲 Curiosidade: Gosto muito de fazer as pessoas rirem.</p>
+<p align="left">✨ Descobri a programação enquanto estava entediada na biblioteca da escola;<br>📚 Me divirto fazendo automações em python para demandas pessoais;<br>🎯 Metas: Pretendo seguir na área de cibersegurança, ainda estou no começo da jornada<br>
 
 ###
